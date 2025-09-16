@@ -1,10 +1,11 @@
-## 🪄 A propos
+<div align="center" style="font-size:32px">
+
+# 💫 About Me
 
 <span style="font-size:16px">
-👋 Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  
+Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  
 Je m’interesse autant a l’experience utilisateur qu’a l’architecture technique, avec une approche orientee full-stack.  
 </span>
-
 ---
 
 ## 🌐 Me retrouver
