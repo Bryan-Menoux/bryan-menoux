@@ -1,6 +1,9 @@
 # 💫 About Me:
-# 👋 A propos de moi<br><br>Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  <br>Je m’interesse autant a l’experience utilisateur qu’a l’architecture technique, avec une approche orientee full-stack.  <br><br>💻 Competences : React, Astro, TailwindCSS pour le front-end | Node.js et PocketBase pour le back-end | MySQL pour la gestion de donnees | Git et GitHub pour le versioning  <br>🎯 Objectifs : consolider mes bases en architecture logicielle, approfondir le deploiement (Docker, CI/CD), et participer a des projets collaboratifs ou open source  <br>⚡ Interets : optimisation de code, exploration de nouvelles technos, creation de projets innovants autour du web et du SaaS  
-
+<sub>
+👋 A propos de moi<br><br>
+Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  
+Je m’interesse autant a l’experience utilisateur qu’a l’architecture technique, avec une approche orientee full-stack.  
+</sub>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-menoux) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Bryan Menoux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanmenoux@gmail.com) 
