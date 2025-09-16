@@ -1,9 +1,9 @@
 # 💫 About Me:
-<sub>
+<span style="font-size:14px">
 👋 A propos de moi<br><br>
 Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  
 Je m’interesse autant a l’experience utilisateur qu’a l’architecture technique, avec une approche orientee full-stack.  
-</sub>
+</span>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-menoux) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Bryan Menoux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanmenoux@gmail.com) 
