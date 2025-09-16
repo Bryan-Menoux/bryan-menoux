@@ -1,6 +1,7 @@
 <div align="center" style="font-size:32px">
 
 # 💫 About Me
+<div style="width:100px; height:100px; background-color:red; border-radius:50%;"></div>
 
 <span style="font-size:16px">
 Passionne par le developpement web, j’aime transformer des idees en applications claires et efficaces.  
