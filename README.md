@@ -1,15 +1,21 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=C0CAF5&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header" alt="Bryan Menoux, développeur web full-stack">
-</p>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=C0CAF5&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=1A1B27&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=C0CAF5&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header" alt="Bryan Menoux, développeur web full-stack">
+  </picture>
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Interfaces%2C+donn%C3%A9es+et+services;De+l%27id%C3%A9e+au+d%C3%A9ploiement;Des+produits+utiles+et+maintenables">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=1200&color=34548A&center=true&vCenter=true&width=650&lines=Interfaces%2C+donn%C3%A9es+et+services;De+l%27id%C3%A9e+au+d%C3%A9ploiement;Des+produits+utiles+et+maintenables">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Interfaces%2C+donn%C3%A9es+et+services;De+l%27id%C3%A9e+au+d%C3%A9ploiement;Des+produits+utiles+et+maintenables" alt="Interfaces, données et services. De l’idée au déploiement. Des produits utiles et maintenables.">
-  </a>
+  </picture>
 </p>
 
 <p align="center">
-  <a href="#projet-sélectionné"><img src="https://img.shields.io/badge/VOIR_LE_PROJET-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Voir le projet sélectionné"></a>
+  <a href="#featured-project"><img src="https://img.shields.io/badge/VOIR_LE_PROJET-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Voir le projet sélectionné"></a>
   <a href="https://www.linkedin.com/in/bryan-menoux"><img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="Profil LinkedIn de Bryan Menoux"></a>
   <a href="mailto:bryanmenoux@gmail.com"><img src="https://img.shields.io/badge/CONTACT-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Contacter Bryan Menoux par e-mail"></a>
 </p>
@@ -37,6 +43,8 @@ Je privilégie les solutions claires, accessibles et capables d’évoluer.
   <strong>Conception et livraison</strong> · Figma · Git · GitHub Actions · VPS
 </p>
 
+<a id="featured-project"></a>
+
 ## Projet sélectionné
 
 <p align="center">
@@ -58,7 +66,6 @@ utilisateur sécurisé.
 
 <p align="center">
   <a href="https://www.kiwanis-pays-de-montbeliard.fr"><img src="https://img.shields.io/badge/SITE_EN_LIGNE-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Visiter le site Kiwanis Pays de Montbéliard"></a>
-  <a href="https://github.com/Bryan-Menoux/Kiwanis_Lorena_Chevallot_Leo_Baudry_Bryan_Menoux"><img src="https://img.shields.io/badge/CODE_SOURCE-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Voir le code source du projet Kiwanis"></a>
 </p>
 
 ## Activité
