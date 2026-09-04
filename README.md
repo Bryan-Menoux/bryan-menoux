@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img width="100%" src="./assets/profile-header.svg" alt="Bryan Menoux, développeur web full-stack">
-</h1>
+<div align="center">
+
+# Bryan Menoux
+
+### Développeur web full-stack
+
+Interfaces modernes · Backend robuste · Déploiement maîtrisé
+
+</div>
 
 <p align="center">
   <picture>
@@ -11,7 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="#featured-project"><img src="https://img.shields.io/badge/VOIR_LE_PROJET-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Voir le projet sélectionné"></a>
   <a href="https://www.linkedin.com/in/bryan-menoux"><img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="Profil LinkedIn de Bryan Menoux"></a>
   <a href="mailto:bryanmenoux@gmail.com"><img src="https://img.shields.io/badge/CONTACT-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Contacter Bryan Menoux par e-mail"></a>
 </p>
@@ -80,15 +85,7 @@ Je privilégie les solutions claires, accessibles et capables d’évoluer.
   <img src="https://img.shields.io/badge/Qdrant-1A1B27?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant">
 </p>
 
-<a id="featured-project"></a>
-
 ## Projet sélectionné
-
-<p align="center">
-  <a href="https://www.kiwanis-pays-de-montbeliard.fr">
-    <img width="100%" src="./assets/kiwanis-preview.jpg" alt="Page d’accueil du site Kiwanis Pays de Montbéliard">
-  </a>
-</p>
 
 ### Kiwanis Pays de Montbéliard
 
@@ -124,6 +121,6 @@ utilisateur sécurisé.
   <a href="https://www.pinterest.com/BryanMenoux"><img src="https://img.shields.io/badge/PINTEREST-1A1B27?style=for-the-badge&logo=pinterest&logoColor=7AA2F7" alt="Voir les inspirations de Bryan Menoux sur Pinterest"></a>
 </p>
 
-<p align="center">
-  <img width="100%" src="./assets/profile-footer.svg" alt="Build, refine, ship">
-</p>
+---
+
+<p align="center"><code>BUILD · REFINE · SHIP</code></p>
