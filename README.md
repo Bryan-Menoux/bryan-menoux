@@ -1,9 +1,5 @@
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=C0CAF5&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=1A1B27&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:7AA2F7,100:BB9AF7&text=Bryan%20Menoux&fontColor=C0CAF5&fontSize=44&fontAlignY=36&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=57&descSize=16&animation=fadeIn&section=header" alt="Bryan Menoux, développeur web full-stack">
-  </picture>
+  <img width="100%" src="./assets/profile-header.svg" alt="Bryan Menoux, développeur web full-stack">
 </h1>
 
 <p align="center">
@@ -29,18 +25,59 @@ Je privilégie les solutions claires, accessibles et capables d’évoluer.
 
 ## Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro,ts,js,tailwind,nodejs,git,githubactions,figma&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=astro,ts,js,tailwind,nodejs,git,githubactions,figma&theme=light">
-    <img src="https://skillicons.dev/icons?i=astro,ts,js,tailwind,nodejs,git,githubactions,figma&theme=dark" alt="Astro, TypeScript, JavaScript, Tailwind CSS, Node.js, Git, GitHub Actions et Figma">
-  </picture>
-</p>
+### Frontend
 
 <p align="center">
-  <strong>Produit web</strong> · Astro · TypeScript · JavaScript · Tailwind CSS<br>
-  <strong>Services et données</strong> · Node.js · PocketBase · API · e-mails transactionnels<br>
-  <strong>Conception et livraison</strong> · Figma · Git · GitHub Actions · VPS
+  <img src="https://img.shields.io/badge/HTML5-1A1B27?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1A1B27?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/SCSS-1A1B27?style=flat-square&logo=sass&logoColor=CC6699" alt="SCSS">
+  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Astro-1A1B27?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro">
+</p>
+
+### Backend et données
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-1A1B27?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/WordPress-1A1B27?style=flat-square&logo=wordpress&logoColor=21759B" alt="WordPress">
+  <img src="https://img.shields.io/badge/ACF-1A1B27?style=flat-square&logo=wordpress&logoColor=40B5A4" alt="Advanced Custom Fields">
+  <img src="https://img.shields.io/badge/CodeIgniter-1A1B27?style=flat-square&logo=codeigniter&logoColor=EF4223" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/NestJS-1A1B27?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS">
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/REST_API-1A1B27?style=flat-square&logo=swagger&logoColor=85EA2D" alt="REST API">
+  <img src="https://img.shields.io/badge/JSON-1A1B27?style=flat-square&logo=json&logoColor=FFFFFF" alt="JSON">
+</p>
+
+### Outils et environnement
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-1A1B27?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-1A1B27?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-1A1B27?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/VS_Code-1A1B27?style=flat-square&logo=vscodium&logoColor=2F80ED" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/WSL-1A1B27?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Windows Subsystem for Linux">
+  <img src="https://img.shields.io/badge/Linux-1A1B27?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-1A1B27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker_Compose-1A1B27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker Compose">
+  <img src="https://img.shields.io/badge/npm-1A1B27?style=flat-square&logo=npm&logoColor=CB3837" alt="npm">
+  <img src="https://img.shields.io/badge/pnpm-1A1B27?style=flat-square&logo=pnpm&logoColor=F69220" alt="pnpm">
+  <img src="https://img.shields.io/badge/dotenv-1A1B27?style=flat-square&logo=dotenv&logoColor=ECD53F" alt="dotenv">
+</p>
+
+### Également utilisés ou connus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-1A1B27?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Nuxt-1A1B27?style=flat-square&logo=nuxt&logoColor=00DC82" alt="Nuxt">
+  <img src="https://img.shields.io/badge/UIkit-1A1B27?style=flat-square&logo=uikit&logoColor=2396F3" alt="UIkit">
+  <img src="https://img.shields.io/badge/Prisma-1A1B27?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma">
+  <img src="https://img.shields.io/badge/n8n-1A1B27?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n">
+  <img src="https://img.shields.io/badge/Make-1A1B27?style=flat-square&logo=make&logoColor=BB9AF7" alt="Make">
+  <img src="https://img.shields.io/badge/Ollama-1A1B27?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama">
+  <img src="https://img.shields.io/badge/Qdrant-1A1B27?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant">
 </p>
 
 <a id="featured-project"></a>
@@ -88,5 +125,5 @@ utilisateur sécurisé.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:7AA2F7,100:BB9AF7&section=footer" alt="Séparateur graphique de fin">
+  <img width="100%" src="./assets/profile-footer.svg" alt="Build, refine, ship">
 </p>
